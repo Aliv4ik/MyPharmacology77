@@ -1,0 +1,11 @@
+body {
+  margin: 50;
+  background-color: white;
+  font-family: 'Open Sans', sans-serif;
+}
+.primary-header {
+  text-align: center;
+}
+.drug-packaging {
+  width: 350px;
+}
